@@ -15,5 +15,5 @@ This code is some that I added to update the display. I chose this part specific
  ![image](https://github.com/user-attachments/assets/2d00cd08-b0d3-4f40-943a-f04b814cb916)
 This code is the part that controls what will happen after the turtle is clicked. It changes the color, stamps the turtle, then changes it back to purple so the turtle you have to click will always be identifiable. It then decreases the size, and checks if the turtle is too small. If the turtle is too small, it is sized back up.
 
-https://github.com/user-attachments/assets/aefbb4e7-bd31-4275-8069-0057f2faf470
 
+https://github.com/user-attachments/assets/657163d6-af27-48e1-a4fc-405bef3b4ed6
